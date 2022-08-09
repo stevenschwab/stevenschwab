@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me : I am a Product Manager & Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
 
-- :telescope: I’m currently a self-taught Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently a Software Engineer in the 100Devs Bootcamp and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring full-stack web development.
 
