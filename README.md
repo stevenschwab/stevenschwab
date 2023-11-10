@@ -18,13 +18,13 @@
 
 ---
 
-### :man_technologist: About Me : I am a Product Manager & Hobby iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
+### :man_technologist: About Me : <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m currently looking for a product management or iOS developer position.
+- :telescope: I’m always learning.
 
-- :seedling: Exploring swiftUI.
+- :seedling: Exploring the fundamentals.
 
-- :zap: In my free time, I like to be outside and travel.
+- :zap: In my free time, I like to be kiteboard, play tennis/pickleball, and travel.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stevenmschwab/)
 
