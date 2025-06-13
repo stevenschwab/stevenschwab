@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me : <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: After 7 years in product management, I have realized my true passion is learning about and physically building with technology. Therefore, I am pivoting into software engineering where I can use my hands and commit directly to a product.
+- :telescope: I enjoy learning about technology and working with data.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stevenmschwab/)
 
