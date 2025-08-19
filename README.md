@@ -22,7 +22,7 @@
 
 - Passionate about leveraging data science and machine learning, with hands-on experience in projects like Titanic and Ames Housing analyses, as well as exploring X (Twitter) data with topic modeling.
 - Enthusiastic about innovative engineering solutions, such as designing a refrigerated wet cat food dispenser with a Tesla-inspired aesthetic, blending functionality with sleek design.
-- Skilled in Python programming, with expertise in pandas, XGBoost, and Git version control, while also diving into physics and first principles reasoning to solve complex problems.
+- Skilled in Python programming, with knowledge in pandas, numpy, scikit-learn, SQL, matplotlib, linear models, tree-based models, and Git version control, while also diving into physics and first principles reasoning to solve complex problems.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stevenmschwab/)
 
